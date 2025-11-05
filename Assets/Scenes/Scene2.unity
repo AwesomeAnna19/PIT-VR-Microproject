@@ -1377,7 +1377,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1d5c6f46f07d66142914a25d342d66cc, type: 2}
+  - {fileID: 2100000, guid: 27bb40cc80f5d7548b8ba0fe44a86cfa, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2249,7 +2249,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35eee4d0f0bcfaa47a0c70ce7a1306ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MiniatureMapper
-  miniatureRoot: {fileID: 0}
+  miniatureRoot: {fileID: 991159292}
   bigRoomRoot: {fileID: 1452677121}
   miniatureToRealScale: 20
 --- !u!4 &1088376139
