@@ -880,9 +880,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bef1b794881bd084690777a14eb1eede, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MiniatureMirrorBigRoom
-  bigRoomObjects: {fileID: 0}
+  bigRoomObjects: {fileID: 1622395363}
   usePhysicsMove: 1
-  mapper: {fileID: 0}
+  mapper: {fileID: 1088376138}
 --- !u!114 &383981156
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2422,9 +2422,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bef1b794881bd084690777a14eb1eede, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MiniatureMirrorBigRoom
-  bigRoomObjects: {fileID: 0}
+  bigRoomObjects: {fileID: 2077836574}
   usePhysicsMove: 1
-  mapper: {fileID: 0}
+  mapper: {fileID: 1088376138}
 --- !u!114 &1176834948
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2823,9 +2823,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bef1b794881bd084690777a14eb1eede, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MiniatureMirrorBigRoom
-  bigRoomObjects: {fileID: 0}
+  bigRoomObjects: {fileID: 360893163}
   usePhysicsMove: 1
-  mapper: {fileID: 0}
+  mapper: {fileID: 1088376138}
 --- !u!114 &1282675038
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3510,9 +3510,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bef1b794881bd084690777a14eb1eede, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MiniatureMirrorBigRoom
-  bigRoomObjects: {fileID: 0}
+  bigRoomObjects: {fileID: 238645909}
   usePhysicsMove: 1
-  mapper: {fileID: 0}
+  mapper: {fileID: 1088376138}
 --- !u!114 &1610529185
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3871,9 +3871,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bef1b794881bd084690777a14eb1eede, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MiniatureMirrorBigRoom
-  bigRoomObjects: {fileID: 0}
+  bigRoomObjects: {fileID: 627051816}
   usePhysicsMove: 1
-  mapper: {fileID: 0}
+  mapper: {fileID: 1088376138}
 --- !u!114 &1661164287
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4316,9 +4316,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bef1b794881bd084690777a14eb1eede, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MiniatureMirrorBigRoom
-  bigRoomObjects: {fileID: 0}
+  bigRoomObjects: {fileID: 1822906841}
   usePhysicsMove: 1
-  mapper: {fileID: 0}
+  mapper: {fileID: 1088376138}
 --- !u!114 &1726766713
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4730,9 +4730,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bef1b794881bd084690777a14eb1eede, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MiniatureMirrorBigRoom
-  bigRoomObjects: {fileID: 0}
+  bigRoomObjects: {fileID: 1533162353}
   usePhysicsMove: 1
-  mapper: {fileID: 0}
+  mapper: {fileID: 1088376138}
 --- !u!114 &1843196154
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5011,9 +5011,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bef1b794881bd084690777a14eb1eede, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MiniatureMirrorBigRoom
-  bigRoomObjects: {fileID: 0}
+  bigRoomObjects: {fileID: 951989774}
   usePhysicsMove: 1
-  mapper: {fileID: 0}
+  mapper: {fileID: 1088376138}
 --- !u!114 &2004763276
 MonoBehaviour:
   m_ObjectHideFlags: 0
