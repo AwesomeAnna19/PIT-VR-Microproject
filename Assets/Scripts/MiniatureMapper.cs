@@ -2,9 +2,15 @@ using UnityEngine;
 
 public class MiniatureMapper : MonoBehaviour
 {
+    // The miniature's root transform.
     public Transform miniatureRoot;
+
+    // The big room's root transform.
     public Transform bigRoomRoot;
+
+    // The scale factor between the miniature and the real big room.
     public float miniatureToRealScale = 20f;
+
 
     // Here, the objects' positions that are being manipulated in the miniature room,
     // will be converted to the world position of the big room's objects.
